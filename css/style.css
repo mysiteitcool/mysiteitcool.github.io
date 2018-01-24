@@ -100,7 +100,7 @@ h1{
 	width: 1500px;
 	font-weight: 700;
 	font-size: 30px;
-	margin: 100px auto 0;
+	margin: 80px auto 0;
 	font-family: 'Playfair Display', serif;
 	border: 5px solid rgb(242,242,242);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
@@ -120,11 +120,27 @@ h1{
 	width: 550px;
 	font-weight: 300;
 	font-size: 25px;
-	margin: 100px 196px 0;
+	margin: 80px 0 0 196px;
 	font-family: 'Playfair Display', serif;
 	border: 5px solid rgb(242,242,242);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
-	
+	float: left;
+}
+
+.clear{
+	clear: both;
+}
+
+.karusel{
+	height: 420px;
+	width: 900px;
+	font-weight: 300;
+	font-size: 25px;
+	margin: 80px 196px 0 0;
+	font-family: 'Playfair Display', serif;
+	border: 5px solid rgb(242,242,242);
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	float: right;
 }
 
 .fon112{
@@ -142,16 +158,22 @@ h1{
 	border: 0px solid red;
 }
 
-.aa1, .aa2, .aa3, .aa4{
+.aa1{
 	margin: 7px 0 0 0;
+	font-size: 35px;
 }
 
 .otpr1{
-	width: 100px;
+	width: 120px;
 	height: 40px;
 	background-color: rgb(202,202,202);
-	margin: 40px;
+	margin: 25px;
 	border-radius: 10px;
+	border-style: none;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 18px;
 }
 
 /*.karusel{
@@ -172,6 +194,7 @@ footer{
 	background-color: rgb(242,242,242);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	position: relative;
+	margin-top: 80px;
 }
 
 .bch{
@@ -181,8 +204,16 @@ footer{
 .dmenu{
 	position: absolute;
 	bottom: 65px;
-	right: 650px;
+	right: 630px;
 	font-family: 'Arial', serif;
 	font-weight: 400;
-	font-size: 17px;
+	font-size: 20px;
+}
+
+.in1, .in2, .in3, .in4{
+	height: 44px;
+	margin-top: 20px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	border-style: none;
+	font-size: 16px;
 }
