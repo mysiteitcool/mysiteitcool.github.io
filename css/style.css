@@ -12,7 +12,7 @@ body{
 .menu{
 	width: 100%;
 	height: 45px;
-	background-color: rgb(242,242,242);
+	background-color: rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
@@ -79,11 +79,11 @@ h1{
 .kai{
 	height: 620px;
 	width: 1500px;
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 30px;
 	margin: 100px auto 0;
 	font-family: 'Playfair Display', serif;
-	border: 5px solid rgb(242,242,242);
+	border: 5px solid rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
@@ -99,11 +99,11 @@ h1{
 .annie{
 	height: 620px;
 	width: 1500px;
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 30px;
 	margin: 80px auto 0;
 	font-family: 'Playfair Display', serif;
-	border: 5px solid rgb(242,242,242);
+	border: 5px solid rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
@@ -119,11 +119,11 @@ h1{
 .poul{
 	height: 620px;
 	width: 1500px;
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 30px;
 	margin: 80px auto 0;
 	font-family: 'Playfair Display', serif;
-	border: 5px solid rgb(242,242,242);
+	border: 5px solid rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
@@ -142,7 +142,7 @@ h1{
 	font-weight: 300;
 	font-size: 25px;
 	font-family: 'Playfair Display', serif;
-	border: 5px solid rgb(242,242,242);
+	border: 5px solid rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	float: left;
 }
@@ -157,7 +157,7 @@ h1{
 	font-weight: 300;
 	font-size: 25px;
 	font-family: 'Playfair Display', serif;
-	border: 5px solid rgb(242,242,242);
+	border: 5px solid rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	float: right;
 }
@@ -185,14 +185,14 @@ h1{
 .otpr1{
 	width: 120px;
 	height: 40px;
-	background-color: rgb(242,242,242);
+	background-color: rgb(232,232,232);
 	margin: 25px;
 	border-radius: 10px;
 	border-style: none;
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	font-family: 'Playfair Display', serif;
-	font-weight: 700;
 	font-size: 18px;
+	font-weight: 700;
 }
 
 .otpr1:hover{
@@ -202,7 +202,7 @@ h1{
 footer{
 	height: 200px;
 	widows: 100%;
-	background-color: rgb(242,242,242);
+	background-color: rgb(232,232,232);
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	position: relative;
 	margin-top: 100px;
@@ -287,7 +287,7 @@ footer{
 .www3{
 	height: 50px;
 	width: 220px;
-	background-color: rgb(242,242,242);
+	background-color: rgb(232,232,232);
 	border-radius: 15px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	margin: 90px 0 20px 333px;
@@ -296,6 +296,7 @@ footer{
 .ww3{
 	text-decoration: none;
 	color: rgb(50,50,50);
+	font-weight: 700;
 }
 
 .ww3:hover{
@@ -305,7 +306,7 @@ footer{
 .www2{
 	height: 50px;
 	width: 220px;
-	background-color: rgb(242,242,242);
+	background-color: rgb(232,232,232);
 	border-radius: 15px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	margin: 75px 0 20px 323px;
@@ -314,6 +315,7 @@ footer{
 .ww2{
 	text-decoration: none;
 	color: rgb(50,50,50);
+	font-weight: 700;
 }
 
 .ww2:hover{
@@ -323,7 +325,7 @@ footer{
 .www1{
 	height: 50px;
 	width: 220px;
-	background-color: rgb(242,242,242);
+	background-color: rgb(232,232,232);
 	border-radius: 15px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 	margin: 53px 0 20px 321px;
@@ -332,6 +334,7 @@ footer{
 .ww1{
 	text-decoration: none;
 	color: rgb(50,50,50);
+	font-weight: 700;
 }
 
 .ww1:hover{
