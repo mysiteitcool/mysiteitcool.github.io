@@ -2,6 +2,7 @@
 
 body{
 	margin: 0 0;
+	text-align: center; 
 }
 
 .wrapper{
@@ -186,7 +187,7 @@ h1{
 .otpr1{
 	width: 120px;
 	height: 40px;
-	background-color: rgb(202,202,202);
+	background-color: rgb(242,242,242);
 	margin: 25px;
 	border-radius: 10px;
 	border-style: none;
@@ -196,17 +197,9 @@ h1{
 	font-size: 18px;
 }
 
-/*.karusel{
-	height: 420px;
-	width: 550px;
-	font-weight: 300;
-	font-size: 25px;
-	margin: 100px 850px 0;
-	font-family: 'Playfair Display', serif;
-	border: 5px solid rgb(242,242,242);
-	box-shadow: 0 0 10px rgba(0,0,0,0.3);
-	
-}*/
+.otpr1:hover{
+	color: rgb(150,150,150);
+}
 
 footer{
 	height: 200px;
@@ -219,6 +212,9 @@ footer{
 
 .bch{
 	margin: 30px 0 20px 190px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
 }
 
 .dmenu{
@@ -241,7 +237,7 @@ footer{
 .pp{
 	position: absolute;
 	bottom: 0px;
-	right: 660px;
+	right: 661px;
 	font-size: 15px;
 	margin: 0px;
 }
@@ -288,4 +284,58 @@ footer{
 	height: 400px;
 	position: absolute;
 	bottom: 370px;
+}
+
+.www3{
+	height: 50px;
+	width: 220px;
+	background-color: rgb(242,242,242);
+	border-radius: 15px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	margin: 90px 0 20px 333px;
+}
+
+.ww3{
+	text-decoration: none;
+	color: rgb(50,50,50);
+}
+
+.ww3:hover{
+	color: rgb(150,150,150);
+}
+
+.www2{
+	height: 50px;
+	width: 220px;
+	background-color: rgb(242,242,242);
+	border-radius: 15px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	margin: 75px 0 20px 323px;
+}
+
+.ww2{
+	text-decoration: none;
+	color: rgb(50,50,50);
+}
+
+.ww2:hover{
+	color: rgb(150,150,150);
+}
+
+.www1{
+	height: 50px;
+	width: 220px;
+	background-color: rgb(242,242,242);
+	border-radius: 15px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	margin: 53px 0 20px 321px;
+}
+
+.ww1{
+	text-decoration: none;
+	color: rgb(50,50,50);
+}
+
+.ww1:hover{
+	color: rgb(150,150,150);
 }
